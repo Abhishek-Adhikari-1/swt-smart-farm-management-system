@@ -1,0 +1,22 @@
+Crops:
+Rice 22.00 657.00 2020-04-12 2020-08-26 Harvested
+Millet 10.00 34.00 2022-02-15 2024-05-30 Planted
+Wheat 50.00 125.00 2021-06-10 2022-09-15 Ready_to_Harvest
+Corn 15.00 60.00 2023-03-25 2023-09-10 Planted
+Soybean 30.00 85.00 2020-12-01 2021-08-20 Harvested
+Barley 45.00 95.00 2021-10-05 2022-07-25 Ready_to_Harvest
+Oats 25.00 70.00 2022-01-12 2022-06-18 Harvested
+Sunflower 12.00 45.00 2023-04-05 2023-08-15 Planted
+Canola 18.00 40.00 2022-11-20 2023-06-01 Ready_to_Harvest
+Peas 8.00 20.00 2022-07-15 2023-03-10 Harvested
+Expenses:
+labour 56.00 charge_of_temporary_labours
+rod 434.00 fencing_rod
+lunch 6.00 food_for_labours
+fertilizer 120.00 crop_nutrients
+seeds 75.00 various_seeds
+pesticides 90.00 pest_control
+water 30.00 irrigation
+tools 150.00 farming_tools
+transport 200.00 crop_transportation
+maintenance 45.00 equipment_maintenance
